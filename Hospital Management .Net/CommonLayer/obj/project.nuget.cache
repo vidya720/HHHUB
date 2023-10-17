@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL+ZkRIjQ9lKmvr2DHo0HBU6f5UFFwk0bdrxtYrtMIF+j9emLCQ4C/Pzi3fm/FV6roSeXNz2kGpvzLy4+ZlHWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jampa\\OneDrive\\Desktop\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jampa\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\jampa\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jampa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
